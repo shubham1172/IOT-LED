@@ -4,9 +4,9 @@ Python webapp to control LEDs mounted on a Raspberry Pi
 
 ## Configuration:
 
-RED LED - GPIO PIN 12
-YELLOW LED - GPIO PIN 16
-GREEN LED - GPIO PIN 21
+RED LED - GPIO PIN 12 <br>
+YELLOW LED - GPIO PIN 16 <br>
+GREEN LED - GPIO PIN 21 <br>
 
 ### You can change the numbering by adjusting the variable in main.py alternatively..
 
