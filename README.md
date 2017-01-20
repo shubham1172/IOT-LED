@@ -1,6 +1,11 @@
 # IOT-LED
 Python webapp to control LEDs mounted on a Raspberry Pi
 
+## Dependencies:
+
+Raspberry Pi <br>
+    (I did use model 2 B for testing) <br>
+Flask module in python <br>
 
 ## Configuration:
 
